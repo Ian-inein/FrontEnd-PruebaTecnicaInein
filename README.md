@@ -73,6 +73,7 @@ Supongamos que la lista de tareas puede llegar a ser muy grande, y que algunas o
 2. **Funcionalidad**: Que la aplicación cumpla con todos los requisitos mencionados.
 3. **React Hooks**: Comprensión y uso adecuado de `useState` y `useEffect`.
 4. **Creatividad**: Si se agrega alguna funcionalidad adicional o se mejora la UI de manera creativa.
+5. **Metodología de Investigación: Evaluación de cómo se realizó la investigación y se aplicaron los conocimientos adquiridos al desarrollo de la aplicación.
 
 ---
 
